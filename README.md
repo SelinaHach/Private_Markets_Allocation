@@ -130,6 +130,7 @@ These limits are my own choices, not market data.
 |---|---|
 | `Private_Markets_Allocation_Model.ipynb` | Python notebook with the full analysis |
 | `Private_Markets_Allocation_Model.xlsx` | Excel version, with formulas you can check |
+| `Private_Markets_Allocation_Deck.pptx` | Slide deck summarizing the results and recommendation |
 
 ## How to run
 
